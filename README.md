@@ -322,13 +322,3 @@ ativo = true
 * Regras de negócio bem definidas
 * Foco em arquitetura e domínio
 * Fácil de testar via Swagger
-
----
-
-Se quiser dar um toque final **nível recrutador (top GitHub)**, posso adicionar:
-
-* badges (build, Java, Spring)
-* gifs ou prints do Swagger
-* descrição estilo LinkedIn/portfólio
-
-Só falar 👍
